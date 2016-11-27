@@ -6,8 +6,9 @@ def get_data():
 	return [
 		{
 			"module_name": "Role Module Visibility",
+			"reverse": 1,
 			"color": "white",
-			"icon": "octicon-settings",
+			"icon": "octicon octicon-settings",
 			"type": "module",
 			"label": _("Role Module Visibility")
 		}
