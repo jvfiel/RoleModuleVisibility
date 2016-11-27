@@ -7,7 +7,7 @@ import frappe
 from frappe.model.document import Document
 from frappe.desk.doctype.desktop_icon.desktop_icon import set_hidden
 
-class RoleModuleVisibility(Document):
+class HideUnhideModule(Document):
 	def autoname(self):
 		if self.role:
 			self.name = self.role
