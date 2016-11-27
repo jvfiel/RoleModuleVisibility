@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include rolemodulevisibility *.css
+recursive-include rolemodulevisibility *.csv
+recursive-include rolemodulevisibility *.html
+recursive-include rolemodulevisibility *.ico
+recursive-include rolemodulevisibility *.js
+recursive-include rolemodulevisibility *.json
+recursive-include rolemodulevisibility *.md
+recursive-include rolemodulevisibility *.png
+recursive-include rolemodulevisibility *.py
+recursive-include rolemodulevisibility *.svg
+recursive-include rolemodulevisibility *.txt
+recursive-exclude rolemodulevisibility *.pyc
