@@ -1,6 +1,6 @@
-## Role Module Visibility
+## Frappe Role Module Visibility
 
-Hide/Unhide desktop icons per Role or Globally
+Hide/Unhide desktop icons per Role or Globally in Frappe/ERPNext.
 
 #### License
 
